@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "a7bb55e7e708ca77f896245e7582ca7e"
+API_KEY = ""
 
 
 def get_data(place, forecast_days=3, kind="Sky"):
